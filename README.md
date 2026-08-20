@@ -9,7 +9,8 @@ Repositorios en desarrollo:
 - Eliminación de rich como librería principal
 - Interfaz más llamativa y moderna
 - Mejoras en chatbot
-  
+---
+
 * `Cibertoolkit (new)`: _40% terminado_
 <img width="548" height="289" alt="image" src="https://github.com/user-attachments/assets/f5bb933d-ebca-4c5f-8f68-e463396445bb" />
 
