@@ -10,6 +10,7 @@ Repositorios en desarrollo:
 - Interfaz más llamativa y moderna
 - Mejoras en chatbot
 - División del proyecto para una mejor optimización.
+- Eliminación de pyperclip como dependecia.(`Próximamente`)
 ---
 
 * `Cibertoolkit (new)`: _40% terminado_
@@ -18,6 +19,7 @@ Repositorios en desarrollo:
 - Experimentación de funciones con redes
 - Comprobación de un buen funcionamiento
 - Verificación de datos reales
+- Reducción máxima de librerías externas.
 
 ---
 ## MMLabs no es una organización ni una empresa, es solamente mi laboratorio para practicar y publicar mis proyectos como estudiante.
