@@ -13,13 +13,13 @@ Repositorios en desarrollo:
 - Eliminación de pyperclip como dependecia.(`Próximamente`)
 ---
 
-* `Cibertoolkit (new)`: _40% terminado_
+* `Cibertoolkit (new)`: _70% terminado_
 <img width="548" height="289" alt="image" src="https://github.com/user-attachments/assets/f5bb933d-ebca-4c5f-8f68-e463396445bb" />
 
 - Experimentación de funciones con redes
 - Comprobación de un buen funcionamiento
 - Verificación de datos reales
-- Reducción máxima de librerías externas.
+- Mejoras en la presentación de datos
 
 ---
 ## MMLabs no es una organización ni una empresa, es solamente mi laboratorio para practicar y publicar mis proyectos como estudiante.
