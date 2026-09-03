@@ -22,4 +22,9 @@ Repositorios en desarrollo:
 - Mejoras en la presentación de datos
 
 ---
+# Proximamente:
+* `TO.DO.LIST`
+Mi próximo proyecto para practicar automatización en python...
+
+---
 ## MMLabs no es una organización ni una empresa, es solamente mi laboratorio para practicar y publicar mis proyectos como estudiante.
