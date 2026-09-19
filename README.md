@@ -2,15 +2,16 @@
 Find out about the news, updates, and releases from my profile
 ---
 Repositorios en desarrollo:
-* `Multicode-system (v.3.0)`: _60% terminado_
-<img width="599" height="451" alt="image" src="https://github.com/user-attachments/assets/7f1701d4-d93f-478d-8097-e3c3bea85399" />
+* `Multicode-system (v.3.0)`: _100% terminado_
+<img width="525" height="427" alt="image" src="https://github.com/user-attachments/assets/9b70e2d0-582b-4f9c-8b12-a85a72ab0ced" />
 
+### ***Ahora*** ya incluye:
 - Mejoras de compatibilidad
 - Eliminación de rich como librería principal
 - Interfaz más llamativa y moderna
 - Mejoras en chatbot
 - División del proyecto para una mejor optimización.
-- Eliminación de pyperclip como dependecia.(`Próximamente`)
+- Eliminación de pyperclip como dependecia.
 ---
 
 * `Cibertoolkit (new)`: _70% terminado_
