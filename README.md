@@ -27,8 +27,8 @@ Repositorios en desarrollo:
 * `TO.DO.LIST`
 Mi próximo proyecto para practicar automatización en python...
 
-* `MicroSQL`
-Mi próximo proyecto para entender SQL en python...
+* `MiniSQL`
+Mi próximo proyecto para entender y crear SQL en python...
 
 ---
 ## MMLabs no es una organización ni una empresa, es solamente mi laboratorio para practicar y publicar mis proyectos como estudiante.
