@@ -3,14 +3,15 @@ Find out about the news, updates, and releases from my profile
 ---
 Repositorios en desarrollo:
 * `Multicode-system (v.3.0)`: _100% terminado_
+`Con mejoras en mira`
 <img width="525" height="427" alt="image" src="https://github.com/user-attachments/assets/9b70e2d0-582b-4f9c-8b12-a85a72ab0ced" />
 
 ### ***Ahora*** ya incluye:
-- Mejoras de compatibilidad
-- Eliminación de rich como librería principal
-- Interfaz más llamativa y moderna
-- Mejoras en chatbot
-- División del proyecto para una mejor optimización.
+- Mejoras de compatibilidad 
+- Eliminación de rich como librería principal (archivo .toml)
+- Interfaz más llamativa y moderna (Sin Rich)
+- Mejoras en chatbot (Aunque no muy notables aún)
+- División del proyecto para una mejor optimización. (Estructura escalable)
 - Eliminación de pyperclip como dependecia.
 ---
 
@@ -21,11 +22,12 @@ Repositorios en desarrollo:
 - Comprobación de un buen funcionamiento
 - Verificación de datos reales
 - Mejoras en la presentación de datos
+- Mejoras en presentación (Interfaz más limpia y llamativa)
 
 ---
 # Proximamente:
 * `TO.DO.LIST`
-Mi próximo proyecto para practicar automatización en python...
+Mi próximo proyecto para practicar automatización en diferentes librerías de python...
 
 * `MiniSQL`
 Mi próximo proyecto para entender y crear SQL en python...
