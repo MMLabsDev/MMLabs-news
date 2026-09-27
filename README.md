@@ -32,5 +32,7 @@ Mi próximo proyecto para practicar automatización en diferentes librerías de 
 * `MiniSQL`
 Mi próximo proyecto para entender y crear SQL en python...
 
+* `Mchat`
+Un reto personal para ver hasta dónde llegan mis conocimientos de programación
 ---
 ## MMLabs no es una organización ni una empresa, es solamente mi laboratorio para practicar y publicar mis proyectos como estudiante.
