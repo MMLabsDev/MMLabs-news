@@ -16,7 +16,7 @@ Repositorios en desarrollo:
 ---
 
 * `Cibertoolkit (new)`: _70% terminado_
-<img width="548" height="289" alt="image" src="https://github.com/user-attachments/assets/f5bb933d-ebca-4c5f-8f68-e463396445bb" />
+<img width="1018" height="768" alt="image" src="https://github.com/user-attachments/assets/7947fb98-2a29-4a57-8f6b-f80f2ca68e88" />
 
 - Experimentación de funciones con redes
 - Comprobación de un buen funcionamiento
@@ -28,11 +28,13 @@ Repositorios en desarrollo:
 # Proximamente:
 * `TO.DO.LIST`
 Mi próximo proyecto para practicar automatización en diferentes librerías de python...
+`(Estará aquí dentro de poco...)`
 
 * `MiniSQL`
 Mi próximo proyecto para entender y crear SQL en python...
 
 * `Mchat`
 Un reto personal para ver hasta dónde llegan mis conocimientos de programación
+`(Estará aquí dentro de poco...)`
 ---
 ## MMLabs no es una organización ni una empresa, es solamente mi laboratorio para practicar y publicar mis proyectos como estudiante.
